@@ -1,0 +1,4 @@
+[{"detectedLanguage":{"language":"ru","score":1.0},"translations":[{"text":" Salut comment vas-tu? Je vais bien.","to":"fr"}]}]
+[{"detectedLanguage":{"language":"ru","score":1.0},"translations":[{"text":" Hi how are you? I'm good.","to":"en"}]}]
+[{"detectedLanguage":{"language":"ru","score":1.0},"translations":[{"text":"やあ、元気。元気です。","to":"ja"}]}]
+[{"detectedLanguage":{"language":"ru","score":1.0},"translations":[{"text":" Вітаю, як справи? Я хороший.","to":"uk"}]}]
